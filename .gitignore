@@ -1,0 +1,5 @@
+# Ignore Models_WithinSession folder
+Models_WithinSession/
+
+# Ignore Models_CrossSession folder
+Models_CrossSession/
