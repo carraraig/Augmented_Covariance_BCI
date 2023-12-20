@@ -1,0 +1,9 @@
+Dataset Zhou2016 
+
+#################
+List of selected events: 
+['right_hand', 'left_hand']
+#################
+Subject Number: 1
+Overall Time for programm: 00:00:31:56
+Overall Memory used: 1.5939178466796875 Mb

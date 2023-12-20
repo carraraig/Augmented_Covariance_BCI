@@ -1,0 +1,9 @@
+Dataset BNCI2014004 
+
+#################
+List of selected events: 
+['right_hand', 'feet']
+#################
+Subject Number: 3
+Overall Time for programm: 00:00:30:53
+Overall Memory used: 1.5188980102539062 Mb

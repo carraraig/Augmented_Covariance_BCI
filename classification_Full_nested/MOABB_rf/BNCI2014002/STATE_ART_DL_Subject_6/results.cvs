@@ -1,0 +1,4 @@
+,score,score_precision,score_recall,score_f1,time,samples,carbon_emission,subject,session,channels,n_sessions,dataset,pipeline
+0,0.83515626,0.75770307,0.74375,0.7390432,102.00757,160.0,1.0514476,6,session_0,15,1,002-2014,EEGNet_8_2
+1,0.8691406,0.46315137,0.54375,0.41058573,68.28088,160.0,0.71733266,6,session_0,15,1,002-2014,DeepConvNet
+2,0.884375,0.84393376,0.8375,0.83671266,140.34268,160.0,1.4781053,6,session_0,15,1,002-2014,ShallowConvNet

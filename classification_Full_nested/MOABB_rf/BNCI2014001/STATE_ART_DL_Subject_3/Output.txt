@@ -1,0 +1,64 @@
+Tensorflow Version: 2.11.0
+Keras Version: 2.11.0
+CPU is AVAILABLE
+GPU is NOT AVAILABLE
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+24 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Adding metadata with 3 columns
+288 matching events found
+No baseline correction applied
+Dataset BNCI2014001 
+
+#################
+List of selected events: 
+['right_hand', 'feet']
+#################
+Subject Number: 3
+Overall Time for programm: 00:00:22:44
+Overall Memory used: 2.5325660705566406 Mb

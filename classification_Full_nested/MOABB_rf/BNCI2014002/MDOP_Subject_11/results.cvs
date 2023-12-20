@@ -1,0 +1,3 @@
+,score,score_precision,score_recall,score_f1,time,samples,carbon_emission,subject,session,channels,n_sessions,dataset,pipeline
+0,0.84296876,0.7750101,0.7625,0.76055694,170.19682,160.0,15.514668,11,session_0,15,1,002-2014,ACM+MDM(MDOP)
+1,0.928125,0.87583023,0.8625,0.8611513,173.48128,160.0,3.1427655,11,session_0,15,1,002-2014,ACM+TGSP+SVM(MDOP)

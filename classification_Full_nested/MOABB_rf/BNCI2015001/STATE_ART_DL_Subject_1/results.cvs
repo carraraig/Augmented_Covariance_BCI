@@ -1,0 +1,7 @@
+,score,score_precision,score_recall,score_f1,time,samples,carbon_emission,subject,session,channels,n_sessions,dataset,pipeline
+0,1.0,1.0,1.0,1.0,114.82357,200.0,1.0683954,1,session_A,13,2,001-2015,EEGNet_8_2
+1,1.0,0.98614717,0.985,0.9849718,106.04854,200.0,0.88600814,1,session_B,13,2,001-2015,EEGNet_8_2
+2,1.0,0.99523807,0.995,0.99499685,153.08987,200.0,1.4763582,1,session_A,13,2,001-2015,DeepConvNet
+3,1.0,0.9909091,0.99,0.9899749,84.08089,200.0,0.7142112,1,session_B,13,2,001-2015,DeepConvNet
+4,1.0,0.98571426,0.985,0.9849906,195.04138,200.0,2.056065,1,session_A,13,2,001-2015,ShallowConvNet
+5,1.0,1.0,1.0,1.0,129.8887,200.0,1.2077869,1,session_B,13,2,001-2015,ShallowConvNet

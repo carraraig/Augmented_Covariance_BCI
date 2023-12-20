@@ -1,0 +1,24 @@
+Tensorflow Version: 2.11.0
+Keras Version: 2.11.0
+CPU is AVAILABLE
+GPU is NOT AVAILABLE
+Not setting metadata
+200 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+200 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Adding metadata with 3 columns
+400 matching events found
+No baseline correction applied
+Dataset BNCI2015001 
+
+#################
+List of selected events: 
+['right_hand', 'feet']
+#################
+Subject Number: 1
+Overall Time for programm: 00:01:06:50
+Overall Memory used: 2.4898948669433594 Mb

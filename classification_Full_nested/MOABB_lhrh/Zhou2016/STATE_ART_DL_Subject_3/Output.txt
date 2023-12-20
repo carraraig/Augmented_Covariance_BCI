@@ -1,0 +1,46 @@
+Tensorflow Version: 2.11.0
+Keras Version: 2.11.0
+CPU is AVAILABLE
+GPU is NOT AVAILABLE
+Reading 0 ... 219849  =      0.000 ...   879.396 secs...
+Reading 0 ... 216709  =      0.000 ...   866.836 secs...
+Reading 0 ... 226609  =      0.000 ...   906.436 secs...
+Reading 0 ... 266929  =      0.000 ...  1067.716 secs...
+Reading 0 ... 227989  =      0.000 ...   911.956 secs...
+Reading 0 ... 222459  =      0.000 ...   889.836 secs...
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Not setting metadata
+50 matching events found
+No baseline correction applied
+Adding metadata with 3 columns
+Adding metadata with 3 columns
+300 matching events found
+No baseline correction applied
+Dataset Zhou2016 
+
+#################
+List of selected events: 
+['right_hand', 'left_hand']
+#################
+Subject Number: 3
+Overall Time for programm: 00:00:19:21
+Overall Memory used: 2.2060585021972656 Mb
